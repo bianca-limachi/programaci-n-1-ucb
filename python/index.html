@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Conversor de Base</title>
+  <link rel="stylesheet" href="estilos.css" />
+</head>
+<body>
+  <header>
+    <h1>Conversor de Números</h1>
+  </header>
+
+  <main class="contenedor">
+    <div class="formulario">
+      <input type="text" id="numero" placeholder="Número decimal" />
+      <input type="text" id="base" placeholder="Base destino (ej. 2, 8, 16)" />
+      <button onclick="convertir()">Convertir</button>
+      <input type="text" id="resultado" placeholder="Resultado" readonly />
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 - Conversor Profesional</p>
+  </footer>
+
+  <script src="funciones.js"></script>
+  <script>
+    function convertir() {
+      const numero = document.getElementById("numero").value;
+      const base = document.getElementById("base").value;
+      const resultado = aBase(parseInt(numero), parseInt(base));
+      document.getElementById("resultado").value = resultado;
+    }
+  </script>
+</body>
+</html>
+
+<!-- binarioADecimal -->
+<input type="text" id="binarioInput" placeholder="Binario (ej: 1010)">
+<button onclick="alert(binarioADecimal(document.getElementById('binarioInput').value))">
+  Convertir Binario a Decimal
+</button>
+
+<!-- sumarBinaros -->
+<input type="text" id="bin1" placeholder="Binario 1">
+<input type="text" id="bin2" placeholder="Binario 2">
+<button onclick="sumarBinaros(document.getElementById('bin1').value, document.getElementById('bin2').value)">
+  Sumar Binarios
+</button>
+
+<!-- hexADecimal -->
+<input type="text" id="hexInput" placeholder="Hex (ej: 1F)">
+<button onclick="alert(hexADecimal(document.getElementById('hexInput').value))">
+  Convertir Hex a Decimal
+</button>
+
+<!-- decimalABinario -->
+<input type="number" id="decToBinInput" placeholder="Decimal">
+<button onclick="alert(decimalABinario(parseInt(document.getElementById('decToBinInput').value)))">
+  Convertir Decimal a Binario
+</button>
+
+<!-- binarioAHex -->
+<input type="text" id="binToHexInput" placeholder="Binario">
+<button onclick="alert(binarioAHex(document.getElementById('binToHexInput').value))">
+  Convertir Binario a Hexadecimal
+</button>
+
+<!-- convertirDecimalAHex -->
+<input type="number" id="decToHexInput" placeholder="Decimal">
+<button onclick="alert(convertirDecimalAHex(parseInt(document.getElementById('decToHexInput').value)))">
+  Convertir Decimal a Hex
+</button>
+
+<!-- operarBinarios -->
+<input type="text" id="opBin1" placeholder="Binario 1">
+<input type="text" id="opBin2" placeholder="Binario 2">
+<select id="operacion">
+  <option value="suma">Suma</option>
+  <option value="resta">Resta</option>
+  <option value="multiplicacion">Multiplicación</option>
+  <option value="division">División</option>
+</select>
+<button onclick="operarBinarios(
+  document.getElementById('opBin1').value,
+  document.getElementById('opBin2').value,
+  document.getElementById('operacion').value
+)">
+  Operar Binarios
+</button>
+
+<!-- tablaMultiplicar -->
+<input type="number" id="tablaNum" placeholder="Número">
+<button onclick="tablaMultiplicar(parseInt(document.getElementById('tablaNum').value))">
+  Ver Tabla de Multiplicar
+</button>
+
+<!-- sumaPares -->
+<button onclick="sumaPares()">Sumar Pares del 1 al 100</button>
+
+<!-- esPrimo -->
+<input type="number" id="primoInput" placeholder="Número">
+<button onclick="alert(esPrimo(parseInt(document.getElementById('primoInput').value)) ? 'Es primo' : 'No es primo')">
+  ¿Es Primo?
+</button>
+
+<!-- sumaPrimos -->
+<button onclick="sumaPrimos()">Sumar Primos del 1 al 100</button>
