@@ -18,32 +18,26 @@ function ContarVocales(palabra){
         }
     });
     console.log(contarVocales);
-    return ContarVocales;
+    return contarVocales;
 }
 
 function ContarPalabras(texto){
-	var contar = 0;
+	var contarPalabras = 0;
 	texto.split(' ').forEach(element => {
-    	contar++;    
+    	contarPalabras++;    
     });
-    console.log(contar);
+    console.log(contarPalabras);
 
-    return ContarPalabras;
+    return contarPalabras;
 }
-/*
-var texto = "Presta atención Rafael";
-ContarPalabras(texto);
-*/
+
 
 function ContarCaracteres(texto){
     var resultado = 0;
     texto.split('').forEach(element => {
         resultado++;
-b
+
     });
     console.log(resultado);
-    return ContarCaracteres;
+    return resultado;
 }
-var texto = "Hola Mundo";
-
-ContarCaracteres(texto);
