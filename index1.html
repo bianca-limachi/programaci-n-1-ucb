@@ -3,16 +3,34 @@
 <head>
   <meta charset="UTF-8" />
   <title>Ejemplo con onclick</title>
-  <link rel = "stylesheet" href="styles1.css">
+  <link rel="stylesheet" href="styles1.css">
 </head>
 <body>
-    <h2>¿Cuál es tu nombre?</h2>
-<input type= "text" id="nombre" placeholder="Escribe tu nombre aqui" />
-<button onclick = "mostrarNombre()">Mostrar</button>
-<button onclick = "InsertarLista()">INSERTAR LISTA</button>
-<div id="resultado"></div>
+  <h2>¿Cuál es tu nombre?</h2>
+  <input type="text" id="nombreInput" placeholder="Escribe tu nombre aquí" />
+  <button onclick="mostrarNombre()">Mostrar</button>
 
-<script src="script.js" ></script>
-   
+  <hr />
+
+  <button onclick="InsertarLista()">INSERTAR LISTA GENÉRICA</button>
+  <button onclick="EliminarElementoLista()">ELIMINAR ELEMENTO DE LISTA</button>
+ <button onclick="MostrarNombre()">MOSTRAR NOMBRES DEL ARRAY/LISTA</button>
+  <button onclick="MostrarHabilitadosOEP()">MOSTRAR HABILITADOS OEP</button>
+
+  <br /><br />
+
+  <input type="text" id="input_name" placeholder="Escribe tu nombre" />
+  <input type="text" id="input_edad" placeholder="Escribe tu edad" />
+  <input type="text" id="input_correo" placeholder="Escribe tu email" />
+  <input type="text" id="input_carrera" placeholder="Escribe tu carrera" />
+  <input type="text" id="input_phone" placeholder="Escribe tu teléfono" />
+  <button onclick="AddEstudiante()">AGREGAR ESTUDIANTE</button>
+
+  <p id="resultadoTexto"></p>
+  <div id="resultadoLista" class="lista-contenedor"></div>
+
+  <div id ="tabla container"></div>
+
+  <script src="script.js"></script>
 </body>
 </html>

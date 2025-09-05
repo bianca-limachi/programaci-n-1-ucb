@@ -1,0 +1,60 @@
+/* styles.css */
+
+/* Fuente parecida a Roblox desde Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Lilita One', sans-serif;
+  background-color: #ffeaf4; /* Rosa pastel muy claro */
+  color: #5a3e4c; /* Rosa oscuro suave */
+  line-height: 1.6;
+  padding: 20px;
+}
+
+header {
+  background-color: #fbb1d3; /* Rosa chicle suave */
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+main {
+  max-width: 600px;
+  margin: auto;
+  background: #fff0f6; /* Fondo blanco rosado */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(255, 192, 203, 0.2);
+}
+
+button {
+  background-color: #ffb6c1; /* Botón rosa pastel */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 8px;
+  margin-top: 10px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #ff99b3;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  color: #a87588; /* Rosa más oscuro */
+}
+
