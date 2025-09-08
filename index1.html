@@ -9,15 +9,10 @@
   <h2>¿Cuál es tu nombre?</h2>
   <input type="text" id="nombreInput" placeholder="Escribe tu nombre aquí" />
   <button onclick="mostrarNombre()">Mostrar</button>
-
-  <hr />
-
   <button onclick="InsertarLista()">INSERTAR LISTA GENÉRICA</button>
   <button onclick="EliminarElementoLista()">ELIMINAR ELEMENTO DE LISTA</button>
- <button onclick="MostrarNombre()">MOSTRAR NOMBRES DEL ARRAY/LISTA</button>
+  <button onclick="MostrarNombre()">MOSTRAR NOMBRES DEL ARRAY/LISTA</button>
   <button onclick="MostrarHabilitadosOEP()">MOSTRAR HABILITADOS OEP</button>
-
-  <br /><br />
 
   <input type="text" id="input_name" placeholder="Escribe tu nombre" />
   <input type="text" id="input_edad" placeholder="Escribe tu edad" />
@@ -25,11 +20,19 @@
   <input type="text" id="input_carrera" placeholder="Escribe tu carrera" />
   <input type="text" id="input_phone" placeholder="Escribe tu teléfono" />
   <button onclick="AddEstudiante()">AGREGAR ESTUDIANTE</button>
+  
+
+
+
 
   <p id="resultadoTexto"></p>
   <div id="resultadoLista" class="lista-contenedor"></div>
 
   <div id ="tabla container"></div>
+
+  <select id = "colorSelect" onchange="displayColor()">
+    <option value ="">-- Choose a color--</option>
+  </select>
 
   <script src="script.js"></script>
 </body>
