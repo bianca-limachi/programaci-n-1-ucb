@@ -165,7 +165,18 @@ El robot puede jugar el juego, moviendo el personaje hacia izquierda o derecha, 
 
 
 ## **6. Anexos**
+*Enemigo 1
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/alien.png)
+*Enemigo 2
+![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/alien2.png)
+*Enemigo 3
+![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/alien3.png)
+*Icon coca
+![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/coca.png)
+*Icon somo
+![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/icon2.png)
+
+
 
 
 
