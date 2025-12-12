@@ -186,32 +186,33 @@ El robot puede jugar el juego, moviendo el personaje hacia izquierda o derecha, 
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/icon2.png)
 
 
-**Nave 
-![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/nave.png)
 
 
-**Nave 1
+**Carrito de somo
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/nave1.png)
 
 
-**Fondo
+**Nivel 1 
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/fondo.png)
 
 
 
-**Fondo1
+**Inicio del juego
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/fondoindex1.png)
 
 
 
-**Fondo2
+**Nivel 2
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/fondo2.png)
 
 
 
-**Fondo3
+**Nivel Final
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/fondo3.png)
 
+
+
+<img width="995" height="701" alt="Captura de Pantalla 2025-12-11 a la(s) 23 51 29" src="https://github.com/user-attachments/assets/81fcd492-b0c3-43e3-9ce0-fa91571e7610" />
 
 
 
@@ -229,7 +230,8 @@ class Bala {
     this.y = y;
     this.direccion = direccion;
     this.tipo = tipo;
-    this.velocidad = 5;
+    this.velo![Uploading Captura de Pantalla 2025-12-11 a la(s) 23.50.58.png…]()
+cidad = 5;
     this.width = 20;
     this.height = 25;
   }
