@@ -158,7 +158,6 @@ El robot puede jugar el juego, moviendo el personaje hacia izquierda o derecha, 
 
 ### **Recomendaciones**
 
-* Implementar disparos controlables por el Dobot
 * Añadir más niveles y enemigos
 * Incorporar menú de inicio y guardado de puntaje
 
@@ -221,7 +220,11 @@ El robot puede jugar el juego, moviendo el personaje hacia izquierda o derecha, 
 
 
 
+[cambas invaders 2_assets_somo.mp3](https://github.com/user-attachments/files/24128318/cambas.invaders.2_assets_somo.mp3)
 
+
+
+[cambas invaders 2_assets_fondo.mp3](https://github.com/user-attachments/files/24128321/cambas.invaders.2_assets_fondo.mp3)
 
 
 
