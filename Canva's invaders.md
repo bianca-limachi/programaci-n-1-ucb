@@ -165,7 +165,7 @@ El robot puede jugar el juego, moviendo el personaje hacia izquierda o derecha, 
 
 
 ## **6. Anexos**
-![](https://raw.githubusercontent.com/enriquetrujillo4/Programacion-1-ucb/main/GAME/assets/6.png)
+![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/alien.png)
 
 
 
