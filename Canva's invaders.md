@@ -121,7 +121,7 @@ El robot puede jugar el juego, moviendo el personaje hacia izquierda o derecha, 
 | Integrante      | Tareas principales                                                                |
 | --------------- | --------------------------------------------------------------------------------- |
 | Rafael Ríos     | Programación de la lógica del juego (movimiento, disparos, colisiones, enemigos)  |
-| Bianca Limachi  | Diseño de niveles, historia, sprites y pruebas de Dobot                           |
+| Bianca Limachi  | Diseño de niveles, historia, sprites, pruebas de Dobot y documentación y redacción                          |
 | Isabela Barbery | Diseño de niveles, historia, sprites, pruebas de Dobot, documentación y redacción |
 | Todos           | Organización del repositorio y carpetas del proyecto                              |
 
@@ -165,16 +165,55 @@ El robot puede jugar el juego, moviendo el personaje hacia izquierda o derecha, 
 
 
 ## **6. Anexos**
-*Enemigo 1
+**Enemigo 1
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/alien.png)
-*Enemigo 2
+
+
+
+**Enemigo 2
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/alien2.png)
-*Enemigo 3
+
+
+**Enemigo 3
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/alien3.png)
-*Icon coca
+
+
+**Icon coca
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/coca.png)
-*Icon somo
+
+
+**Icon somo
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/icon2.png)
+
+
+**Nave 
+![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/nave.png)
+
+
+**Nave 1
+![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/nave1.png)
+
+
+**Fondo
+![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/fondo.png)
+
+
+
+**Fondo1
+![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/fondoindex1.png)
+
+
+
+**Fondo2
+![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/fondo2.png)
+
+
+
+**Fondo3
+![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/fondo3.png)
+
+
+
 
 
 
