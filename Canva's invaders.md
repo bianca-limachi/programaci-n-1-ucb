@@ -1,5 +1,3 @@
-
-
 # **Informe Final – Programación 1**
 
 **Universidad:** Universidad Católica Boliviana (UCB)
@@ -32,6 +30,7 @@ Además, se integró el robot **Dobot MG400**, que permite controlar el movimien
 #### **Concepto general**
 
 **Camba’s Invaders** es una reinterpretación del clásico *Space Invaders*. La nave tradicional es reemplazada por un carrito somosero que se mueve lateralmente y dispara “somos” automáticamente cada 2 segundos. Los enemigos disparan bolsas de coca que deben ser esquivadas. El jugador dispone de **6 vidas** y pierde una cada vez que es alcanzado por un disparo enemigo.
+
 
 #### **Historia / narrativa**
 
@@ -89,7 +88,6 @@ Derrotar a todos los enemigos en cada nivel sin perder todas las vidas, avanzand
 * **Dificultad:** Alta
 * **Enemigos:** Jefe final con disparos frecuentes
 * **Características:** Desafío máximo; requiere precisión y estrategia.
-
 
 ### **3.2 Herramientas Utilizadas**
 
@@ -167,6 +165,10 @@ El robot puede jugar el juego, moviendo el personaje hacia izquierda o derecha, 
 
 
 ## **6. Anexos**
+![](https://raw.githubusercontent.com/enriquetrujillo4/Programacion-1-ucb/main/GAME/assets/6.png)
+
+
+
 
 ### **6.1 player.js**
 
