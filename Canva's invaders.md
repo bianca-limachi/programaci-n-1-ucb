@@ -74,7 +74,7 @@ Derrotar a todos los enemigos en cada nivel sin perder todas las vidas, avanzand
 
 * **Dificultad:** Baja
 * **Enemigos:** 5 iniciales (aliens) + jefe García Linera
-* **Velocidad disparo enemigos:** 2500 ms con una probabilidad de disparo del 75%
+* **Velocidad disparo enemigos:** 2500 ms con una probabilidad de disparo del 65%
 * **Características:** Introducción al movimiento, disparo automático y esquiva básica.
 
 #### **Nivel 2 – Luis Arce**
