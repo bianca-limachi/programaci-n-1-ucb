@@ -188,7 +188,7 @@ El robot puede jugar el juego, moviendo el personaje hacia izquierda o derecha, 
 
 
 
-**Carrito de somo*8
+**Carrito de somo**
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/nave1.png)
 
 
