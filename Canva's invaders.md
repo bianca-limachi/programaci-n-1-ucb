@@ -165,49 +165,49 @@ El robot puede jugar el juego, moviendo el personaje hacia izquierda o derecha, 
 
 
 ## **6. Anexos**
-**Enemigo 1
+**Enemigo 1**
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/alien.png)
 
 
 
-**Enemigo 2
+**Enemigo 2**
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/alien2.png)
 
 
-**Enemigo 3
+**Enemigo 3**
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/alien3.png)
 
 
-**Icon coca
+**Icon coca**
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/coca.png)
 
 
-**Icon somo
+**Icon somo**
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/icon2.png)
 
 
 
 
-**Carrito de somo
+**Carrito de somo*8
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/nave1.png)
 
 
-**Nivel 1 
+**Nivel 1**
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/fondo.png)
 
 
 
-**Inicio del juego
+**Inicio del juego**
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/fondoindex1.png)
 
 
 
-**Nivel 2
+**Nivel 2**
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/fondo2.png)
 
 
 
-**Nivel Final
+**Nivel Final**
 ![](https://github.com/bianca-limachi/programaci-n-1-ucb/blob/main/cambas%20invaders%202/assets/fondo3.png)
 
 
